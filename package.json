@@ -1,0 +1,22 @@
+{
+  "name": "face-detection",
+  "version": "1.0.0",
+  "description": "`navigator.getUserMedia` is now deprecated and is replaced by `navigator.mediaDevices.getUserMedia`. To fix this bug replace all versions of `navigator.getUserMedia` with `navigator.mediaDevices.getUserMedia`",
+  "main": "face-api.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Procoder16/face-detection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Procoder16/face-detection/issues"
+  },
+  "homepage": "https://github.com/Procoder16/face-detection#readme",
+  "dependencies": {
+    "face-api.js": "^0.22.2"
+  }
+}
